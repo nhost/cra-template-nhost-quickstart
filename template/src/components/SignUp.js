@@ -10,7 +10,7 @@ const SignUp = () => {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
 
-  const handleOnSubmit = e => {
+  const handleOnSubmit = async (e) => {
     e.preventDefault();
   };
 
