@@ -1,11 +1,11 @@
 {
-  "name": "cra-template-quickstart-nhost",
+  "name": "cra-template-nhost-quickstart",
   "version": "1.0.0",
   "description": "The base template for the Nhost Quickstart guide with React",
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nhost/cra-template-quickstart-nhost.git"
+    "url": "git+https://github.com/nhost/cra-template-nhost-quickstart.git"
   },
   "keywords": [
     "react",
@@ -19,9 +19,9 @@
   "author": "Gregory D'Angelo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nhost/cra-template-quickstart-nhost/issues"
+    "url": "https://github.com/nhost/cra-template-nhost-quickstart/issues"
   },
-  "homepage": "https://github.com/nhost/cra-template-quickstart-nhost#readme",
+  "homepage": "https://github.com/nhost/cra-template-nhost-quickstart#readme",
   "files": [
     "template",
     "template.json"

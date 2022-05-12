@@ -3,17 +3,17 @@
 Link to the guide →
 [Nhost - Quickstart React](https://docs.nhost.io/platform/overview/get-started-with-nhost-cli).
 
-To use this template within your project, add `--template quickstart-nhost` when
+To use this template within your project, add `--template nhost-quickstart` when
 creating a new app.
 
 For example:
 
 ```sh
-npx create-react-app my-app --template quickstart-nhost
+npx create-react-app my-app --template nhost-quickstart
 
 # or
 
-yarn create react-app my-app --template quickstart-nhost
+yarn create react-app my-app --template nhost-quickstart
 ```
 
 For more information, please refer to:
