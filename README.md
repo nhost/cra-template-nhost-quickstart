@@ -1,7 +1,7 @@
 # CRA template for the Nhost quickstart guide
 
 Link to the guide →
-[Nhost - Quickstart React](https://docs.nhost.io/platform/overview/get-started-with-nhost-cli).
+[Nhost - Quickstart React](https://docs.nhost.io/platform/quickstarts/react).
 
 To use this template within your project, add `--template nhost-quickstart` when
 creating a new app.
